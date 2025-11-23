@@ -1,0 +1,15 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Node (falls später JS-Projekte)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VS Code
+.vscode/
+
+# Python (falls später genutzt)
+__pycache__/
+*.pyc
